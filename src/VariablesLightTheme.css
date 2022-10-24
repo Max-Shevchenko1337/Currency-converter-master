@@ -1,0 +1,28 @@
+:root {
+    --main-theme-color: rgb(65, 88, 208);
+    --accent-gradient-color: rgb(255, 204, 112);
+    --secondary-gradient-color: rgb(200, 80, 140);
+
+    --main-element-color: rgb(230, 79, 127);
+    --active-element-color: rgb(230, 79, 127);
+    --error-message: rgb(230, 79, 127);
+
+    --main-button-background-color: rgb(255, 102, 150);
+    --main-button-active-color: rgb(183, 52, 93);
+
+    --to-currency-color: rgb(176, 161, 166);
+    --text-subtle-color: rgb(123, 92, 105);
+
+    --background-inactive-menu-color: rgb(244, 223, 223);
+
+    --notification-background-color: rgb(230, 79, 127, .1);
+    --notification-color: rgb(63, 47, 54);
+
+    --border-color: rgb(215, 215, 215);
+
+    --secondary-button-background-color: white;
+    --heading-text-color: white;
+    --main-button-text-color: white;
+    --nav-bar-link-color: white;
+    --container-background-color: rgb(255, 255, 255, 0.8);
+  }
